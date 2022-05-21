@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bookstore</string>
+    <string name="url">http://10.248.23.80/</string>
+    <string name="submit_query">Submit Query</string>
+    <string name="search_for_book">Search for Book:</string>
+    <string name="find_the_title_and_length_of_movies_with_input_year">Find the title and length of movies with input year:</string>
+    <string name="Email_hint">Email</string>
+    <string name="Password_hint">Password</string>
+    <string name="Login_title">Login:</string>
+    <string name="author">Author</string>
+</resources>
